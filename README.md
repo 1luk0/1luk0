@@ -1,7 +1,6 @@
+### Hi!! i'm Isa 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=5000&color=840c80&center=true&vCenter=true&width=1000&lines=Hey+there%2C+I'm+ Isa" alt="Typing SVG" /></a>
     <img  src="https://i.pinimg.com/736x/8f/03/4f/8f034f2925d24a521a6f98afa9cf3aef.jpg">
-
 </div>
 
 
