@@ -77,6 +77,3 @@
 </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/1luk0/1luk0/output/snake.svg" alt="Snake animation" />
-###
-
