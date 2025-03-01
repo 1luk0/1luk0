@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/1luk0?style=social)](https://github.com/1luk0)
 
-## Sobre mi
+## About me
 - 📓 Software Engineering Student - Universidad de Caldas 
 - 💻 web developer, microservices
 <br>
